@@ -1,4 +1,4 @@
 Instructions:
 - Install gems via 'bundle install'
-- Run adjust_dicom_offset.rb. Assumes images are in DICOM folder unless specified
+- Run adjust_dicom_offset.rb. Assumes images are in DICOM folder. Optionally you can pass a folder name to the script on the command line.
 - Follow prompts to offset images
